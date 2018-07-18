@@ -1,0 +1,146 @@
+Considering minecraft server jar
+Downloading minecraft server version 1.7.10
+  ETag: 3e8912b293b52bd54f879919bd6e4e44
+  MD5:  3e8912b293b52bd54f879919bd6e4e44
+Considering library cpw.mods:fml:1.7.10-7.10.64.986: Not Downloading
+Considering library net.minecraft:launchwrapper:1.11
+Downloading library net.minecraft:launchwrapper:1.11
+Considering library org.ow2.asm:asm-all:5.0.3
+Downloading library org.ow2.asm:asm-all:5.0.3
+Considering library com.typesafe.akka:akka-actor_2.11:2.3.3
+Downloading library com.typesafe.akka:akka-actor_2.11:2.3.3
+Unpacking packed file akka-actor_2.11-2.3.3.jar.pack.xz
+  Signed
+  Checksum Length: 140942
+  Total Length:    2606968
+  Temp File:       C:\Users\Sasha\AppData\Local\Temp\art2212086534196948734.pack
+Successfully unpacked packed file akka-actor_2.11-2.3.3.jar.pack.xz
+Checking "C:\Users\Sasha\IdeaProjects\Admin_plugin\Test server Cauldron\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar" internal checksums
+    checksums.sha1 validated successfully
+    Jar contents validated successfully
+Considering library com.typesafe:config:1.2.1
+Downloading library com.typesafe:config:1.2.1
+Unpacking packed file config-1.2.1.jar.pack.xz
+  Signed
+  Checksum Length: 12246
+  Total Length:    111476
+  Temp File:       C:\Users\Sasha\AppData\Local\Temp\art6622061266049087235.pack
+Successfully unpacked packed file config-1.2.1.jar.pack.xz
+Checking "C:\Users\Sasha\IdeaProjects\Admin_plugin\Test server Cauldron\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar" internal checksums
+    checksums.sha1 validated successfully
+    Jar contents validated successfully
+Considering library org.scala-lang:scala-actors-migration_2.11:1.1.0
+Downloading library org.scala-lang:scala-actors-migration_2.11:1.1.0
+Unpacking packed file scala-actors-migration_2.11-1.1.0.jar.pack.xz
+  Signed
+  Checksum Length: 3311
+  Total Length:    52481
+  Temp File:       C:\Users\Sasha\AppData\Local\Temp\art3700271894570283308.pack
+Successfully unpacked packed file scala-actors-migration_2.11-1.1.0.jar.pack.xz
+Checking "C:\Users\Sasha\IdeaProjects\Admin_plugin\Test server Cauldron\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar" internal checksums
+    checksums.sha1 validated successfully
+    Jar contents validated successfully
+Considering library org.scala-lang:scala-compiler:2.11.1
+Downloading library org.scala-lang:scala-compiler:2.11.1
+Unpacking packed file scala-compiler-2.11.1.jar.pack.xz
+  Signed
+  Checksum Length: 942120
+  Total Length:    9183051
+  Temp File:       C:\Users\Sasha\AppData\Local\Temp\art7576305386371288371.pack
+Successfully unpacked packed file scala-compiler-2.11.1.jar.pack.xz
+Checking "C:\Users\Sasha\IdeaProjects\Admin_plugin\Test server Cauldron\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar" internal checksums
+    checksums.sha1 validated successfully
+    Jar contents validated successfully
+Considering library org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2
+Downloading library org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2
+Unpacking packed file scala-continuations-library_2.11-1.0.2.jar.pack.xz
+  Signed
+  Checksum Length: 2416
+  Total Length:    18871
+  Temp File:       C:\Users\Sasha\AppData\Local\Temp\art6252550397419985513.pack
+Successfully unpacked packed file scala-continuations-library_2.11-1.0.2.jar.pack.xz
+Checking "C:\Users\Sasha\IdeaProjects\Admin_plugin\Test server Cauldron\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar" internal checksums
+    checksums.sha1 validated successfully
+    Jar contents validated successfully
+Considering library org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2
+Downloading library org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2
+Unpacking packed file scala-continuations-plugin_2.11.1-1.0.2.jar.pack.xz
+  Signed
+  Checksum Length: 16815
+  Total Length:    139418
+  Temp File:       C:\Users\Sasha\AppData\Local\Temp\art7992001442253964233.pack
+Successfully unpacked packed file scala-continuations-plugin_2.11.1-1.0.2.jar.pack.xz
+Checking "C:\Users\Sasha\IdeaProjects\Admin_plugin\Test server Cauldron\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar" internal checksums
+    checksums.sha1 validated successfully
+    Jar contents validated successfully
+Considering library org.scala-lang:scala-library:2.11.1
+Downloading library org.scala-lang:scala-library:2.11.1
+Unpacking packed file scala-library-2.11.1.jar.pack.xz
+  Signed
+  Checksum Length: 341368
+  Total Length:    5984083
+  Temp File:       C:\Users\Sasha\AppData\Local\Temp\art5443120353719786921.pack
+Successfully unpacked packed file scala-library-2.11.1.jar.pack.xz
+Checking "C:\Users\Sasha\IdeaProjects\Admin_plugin\Test server Cauldron\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar" internal checksums
+    checksums.sha1 validated successfully
+    Jar contents validated successfully
+Considering library org.scala-lang:scala-parser-combinators_2.11:1.0.1
+Downloading library org.scala-lang:scala-parser-combinators_2.11:1.0.1
+Unpacking packed file scala-parser-combinators_2.11-1.0.1.jar.pack.xz
+  Signed
+  Checksum Length: 37614
+  Total Length:    273457
+  Temp File:       C:\Users\Sasha\AppData\Local\Temp\art7672760321481793000.pack
+Successfully unpacked packed file scala-parser-combinators_2.11-1.0.1.jar.pack.xz
+Checking "C:\Users\Sasha\IdeaProjects\Admin_plugin\Test server Cauldron\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar" internal checksums
+    checksums.sha1 validated successfully
+    Jar contents validated successfully
+Considering library org.scala-lang:scala-reflect:2.11.1
+Downloading library org.scala-lang:scala-reflect:2.11.1
+Unpacking packed file scala-reflect-2.11.1.jar.pack.xz
+  Signed
+  Checksum Length: 291610
+  Total Length:    3217021
+  Temp File:       C:\Users\Sasha\AppData\Local\Temp\art1456499018178775193.pack
+Successfully unpacked packed file scala-reflect-2.11.1.jar.pack.xz
+Checking "C:\Users\Sasha\IdeaProjects\Admin_plugin\Test server Cauldron\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar" internal checksums
+    checksums.sha1 validated successfully
+    Jar contents validated successfully
+Considering library org.scala-lang:scala-swing_2.11:1.0.1
+Downloading library org.scala-lang:scala-swing_2.11:1.0.1
+Unpacking packed file scala-swing_2.11-1.0.1.jar.pack.xz
+  Signed
+  Checksum Length: 39019
+  Total Length:    888907
+  Temp File:       C:\Users\Sasha\AppData\Local\Temp\art1732511677300739560.pack
+Successfully unpacked packed file scala-swing_2.11-1.0.1.jar.pack.xz
+Checking "C:\Users\Sasha\IdeaProjects\Admin_plugin\Test server Cauldron\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar" internal checksums
+    checksums.sha1 validated successfully
+    Jar contents validated successfully
+Considering library org.scala-lang:scala-xml_2.11:1.0.2
+Downloading library org.scala-lang:scala-xml_2.11:1.0.2
+Unpacking packed file scala-xml_2.11-1.0.2.jar.pack.xz
+  Signed
+  Checksum Length: 35380
+  Total Length:    739509
+  Temp File:       C:\Users\Sasha\AppData\Local\Temp\art4857153325014900356.pack
+Successfully unpacked packed file scala-xml_2.11-1.0.2.jar.pack.xz
+Checking "C:\Users\Sasha\IdeaProjects\Admin_plugin\Test server Cauldron\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar" internal checksums
+    checksums.sha1 validated successfully
+    Jar contents validated successfully
+Considering library net.sf.jopt-simple:jopt-simple:4.5
+Downloading library net.sf.jopt-simple:jopt-simple:4.5
+Considering library lzma:lzma:0.0.1
+Downloading library lzma:lzma:0.0.1
+Considering library com.google.guava:guava:16.0: Not Downloading
+Exception in thread "main" java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:191)
+	at com.google.common.io.ByteSink.writeFrom(ByteSink.java:109)
+	at com.google.common.io.ByteStreams.copy(ByteStreams.java:188)
+	at net.minecraftforge.installer.VersionInfo.doFileExtract(VersionInfo.java:115)
+	at net.minecraftforge.installer.VersionInfo.extractFile(VersionInfo.java:107)
+	at net.minecraftforge.installer.ServerInstall.run(ServerInstall.java:87)
+	at net.minecraftforge.installer.InstallerAction.run(InstallerAction.java:42)
+	at net.minecraftforge.installer.InstallerPanel.run(InstallerPanel.java:290)
+	at net.minecraftforge.installer.SimpleInstaller.launchGui(SimpleInstaller.java:154)
+	at net.minecraftforge.installer.SimpleInstaller.main(SimpleInstaller.java:40)

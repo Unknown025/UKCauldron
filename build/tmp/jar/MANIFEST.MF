@@ -1,0 +1,52 @@
+Manifest-Version: 1.0
+KCauldron-Git-Branch: master
+KCauldron-Git-Hash: 2bc9cbb0f7a94114db65ebd0d2280e164379181b
+KCauldron-Group: pw.prok
+KCauldron-Channel: UKCauldron
+KCauldron-Version: 1.7.10-1614.202
+KCauldron-Legacy: false
+KCauldron-Official: false
+Implementation-Vendor: Unknown025
+Implementation-Title: UKCauldron
+Implementation-Version: 1.7.10-R0.1-SNAPSHOT
+Specification-Vendor: Bukkit Team
+Specification-Title: Bukkit
+Specification-Version: 1.7.10-R0.1-SNAPSHOT
+Forge-Version: 10.13.4.1614
+TweakClass: cpw.mods.fml.common.launcher.FMLTweaker
+Main-Class: cpw.mods.fml.relauncher.ServerLaunchWrapper
+Class-Path: ../../../../net/minecraft/launchwrapper/1.12/launchwrapper
+ -1.12.jar ../../../../org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar ../
+ ../../../com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.
+ 3.jar ../../../../com/typesafe/config/1.2.1/config-1.2.1.jar ../../..
+ /../org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-mig
+ ration_2.11-1.1.0.jar ../../../../org/scala-lang/scala-compiler/2.11.
+ 1/scala-compiler-2.11.1.jar ../../../../org/scala-lang/plugins/scala-
+ continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0
+ .2.jar ../../../../org/scala-lang/plugins/scala-continuations-plugin_
+ 2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar ../../../../
+ org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar ../../..
+ /../org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-c
+ ombinators_2.11-1.0.1.jar ../../../../org/scala-lang/scala-reflect/2.
+ 11.1/scala-reflect-2.11.1.jar ../../../../org/scala-lang/scala-swing_
+ 2.11/1.0.1/scala-swing_2.11-1.0.1.jar ../../../../org/scala-lang/scal
+ a-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar ../../../../net/sf/jopt-sim
+ ple/jopt-simple/4.7/jopt-simple-4.7.jar ../../../../lzma/lzma/0.0.1/l
+ zma-0.0.1.jar ../../../../org/yaml/snakeyaml/1.9/snakeyaml-1.9.jar ..
+ /../../../commons-lang/commons-lang/2.6/commons-lang-2.6.jar ../../..
+ /../org/avaje/ebean/2.7.3/ebean-2.7.3.jar ../../../../jline/jline/2.6
+ /jline-2.6.jar ../../../../net/md-5/SpecialSource/1.7-SNAPSHOT/Specia
+ lSource-1.7-SNAPSHOT.jar ../../../../net/sourceforge/argo/argo/2.25/a
+ rgo-2.25.jar ../../../../org/fusesource/jansi/jansi/1.8/jansi-1.8.jar
+  ../../../../com/googlecode/json-simple/json-simple/1.1/json-simple-1
+ .1.jar ../../../../org/xerial/sqlite-jdbc/3.7.2/sqlite-jdbc-3.7.2.jar
+  ../../../../mysql/mysql-connector-java/5.1.14/mysql-connector-java-5
+ .1.14.jar ../../../../javax/persistence/persistence-api/1.0.2/persist
+ ence-api-1.0.2.jar ../../../../net/minecraft/server/1.7.10/server-1.7
+ .10.jar ../../../../pw/prok/KImagine/0.2.0/KImagine-0.2.0.jar ../../.
+ ./../org/apache/httpcomponents/httpclient/4.4.1/httpclient-4.4.1.jar 
+ ../../../../colt/colt/1.2.0/colt-1.2.0.jar ../../../../org/apache/htt
+ pcomponents/httpcore/4.4.1/httpcore-4.4.1.jar ../../../../commons-log
+ ging/commons-logging/1.2/commons-logging-1.2.jar ../../../../commons-
+ codec/commons-codec/1.9/commons-codec-1.9.jar
+

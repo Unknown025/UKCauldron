@@ -25,6 +25,7 @@ import org.bukkit.command.CommandSender;
 
 import com.google.common.base.Joiner;
 
+@Deprecated
 public class KCauldronUpdater implements Runnable, IVersionCheckCallback {
     private static final class LatestVersionCallback extends
             CommandSenderUpdateCallback {
@@ -84,11 +85,12 @@ public class KCauldronUpdater implements Runnable, IVersionCheckCallback {
     private final Thread mThread;
 
     public KCauldronUpdater(CommandSender sender, String version) {
+
         mSender = sender;
         mVersion = version;
         mThread = new Thread(KCauldron.sKCauldronThreadGroup, this, "KCauldron updated");
         mThread.setPriority(Thread.MIN_PRIORITY);
-        mThread.start();
+        // mThread.start();
     }
 
     @Override

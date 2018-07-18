@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Clean.iml" filepath="$PROJECT_DIR$/Clean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Clean_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Clean_main.iml" group="Clean" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Clean_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Clean_test.iml" group="Clean" />
+    </modules>
+  </component>
+</project>

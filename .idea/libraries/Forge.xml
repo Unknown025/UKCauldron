@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Forge">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/forge/fml/conf/patches" />
+      <root url="file://$PROJECT_DIR$/forge/fml/eclipse/Clean/src/main/java" />
+      <root url="file://$PROJECT_DIR$/forge/fml/eclipse/FML/src/main/java" />
+      <root url="file://$PROJECT_DIR$/forge/fml/install/src/main/java" />
+      <root url="file://$PROJECT_DIR$/forge/fml/src/main/java" />
+      <root url="file://$PROJECT_DIR$/forge/fml/src/test/java" />
+      <root url="file://$PROJECT_DIR$/forge/src/main/java" />
+      <root url="file://$PROJECT_DIR$/forge/src/test/java" />
+    </SOURCES>
+  </library>
+</component>

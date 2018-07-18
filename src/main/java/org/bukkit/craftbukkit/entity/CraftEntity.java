@@ -532,6 +532,10 @@ public abstract class CraftEntity implements org.bukkit.entity.Entity {
         return getHandle().entityUniqueID;
     }
 
+    public void setUniqueId(UUID uuid) {
+        getHandle().entityUniqueID = uuid;
+    }
+
     public int getTicksLived() {
         return getHandle().ticksExisted;
     }

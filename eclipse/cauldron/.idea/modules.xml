@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cauldron.iml" filepath="$PROJECT_DIR$/cauldron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cauldron_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cauldron_main.iml" group="cauldron" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cauldron_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cauldron_test.iml" group="cauldron" />
+    </modules>
+  </component>
+</project>

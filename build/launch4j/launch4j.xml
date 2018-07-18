@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launch4jConfig>
+    <dontWrapJar>false</dontWrapJar>
+    <headerType>gui</headerType>
+    <jar>C:\Users\Sasha\IdeaProjects\KCauldron\build\distributions\KCauldron-1.7.10-1614.UNOFFICIAL-installer.jar</jar>
+    <outfile>C:\Users\Sasha\IdeaProjects\KCauldron\build\distributions\KCauldron-1.7.10-1614.UNOFFICIAL-installer-win.exe</outfile>
+    <chdir>.</chdir>
+    <priority>normal</priority>
+    <customProcName>false</customProcName>
+    <stayAlive>false</stayAlive>
+    <icon>C:\Users\Sasha\IdeaProjects\KCauldron\build\launch4j_exec\demo\SimpleApp\l4j\SimpleApp.ico</icon>
+    <jre>
+        <minVersion>1.6.0</minVersion>
+    </jre>
+</launch4jConfig>

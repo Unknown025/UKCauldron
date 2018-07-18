@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.sourceforge.argo:argo:2.25">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.argo/argo/2.25/751761ce15a3e3aaf3fc75b9f013ff8f7b88a585/argo-2.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.argo/argo/2.25/f4d0f456c85ebe09b5bed661664953f83c4f70d1/argo-2.25-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

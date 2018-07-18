@@ -38,6 +38,9 @@ class InstallBundle extends DefaultTask {
             it << '''KCauldron installation guide
 
 # Understanding this bundle
+
+UPDATE: This is the only way to install UKCauldron. KCauldron has been abandoned! The following is the old guide.
+
 You're reading this guide because you're using deprecated installation method
 If you want use easier & safer method please read about KBootstrap at https://prok.pw/KBootstrap
 
@@ -48,7 +51,7 @@ If you want use easier & safer method please read about KBootstrap at https://pr
             it << jarPath
             it << '''
     ... or
-  java -jar KCauldron.jar
+  java -jar UKCauldron.jar
 3. That's end, enjoy
 
 # Why I should use KBootstrap?

@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: cpw.mods.fml.relauncher.ServerLaunchWrapper
+Class-Path: bin/pw/prok/UKCauldron/1.7.10-1614.202/UKCauldron-1.7.10-1
+ 614.202.jar
+

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.avaje:ebean:2.7.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.avaje/ebean/2.7.3/9f3028e521ec43f07b95624f0a08a187f9a1512d/ebean-2.7.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.avaje/ebean/2.7.3/121aa96e4eb7f2ddc02c4ef36a301186da57307b/ebean-2.7.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

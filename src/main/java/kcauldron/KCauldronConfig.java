@@ -13,7 +13,8 @@ public class KCauldronConfig extends ConfigBase {
     public BoolSetting commandEnable = new BoolSetting(this, "command.enable",
             true, "Enable KCauldron command");
     public BoolSetting updatecheckerEnable = new BoolSetting(this,
-            "updatechecker.enable", true, "Enable KCauldron update checker");
+            "updatechecker.enable", false, "Enable KCauldron update checker -- " +
+            "the updater is no longer functional. Changing this option will do nothing.");
     public StringSetting updatecheckerSymlinks = new StringSetting(this,
             "updatechecker.symlinks", "KCauldron.jar", "(Re)create symlinks after update");
     public BoolSetting updatecheckerAutoinstall = new BoolSetting(this,
@@ -21,7 +22,7 @@ public class KCauldronConfig extends ConfigBase {
     public BoolSetting updatecheckerAutorestart = new BoolSetting(this,
             "updatechecker.autorestart", false, "Restart server after updating without confirming (set restart script in spigot.yml)");
     public BoolSetting updatecheckerQuiet = new BoolSetting(this,
-            "updatechecker.quiet", false, "Print less info during update");
+            "updatechecker.quiet", true, "Print less info during update");
 
     public BoolSetting loggingMaterialInjection = new BoolSetting(this,
             "logging.materialInjection", false, "Log material injection event");

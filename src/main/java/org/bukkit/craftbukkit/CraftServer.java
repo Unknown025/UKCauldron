@@ -130,7 +130,6 @@ import net.minecraft.server.dedicated.DedicatedPlayerList;
 import net.minecraft.server.management.UserListEntry;
 import net.minecraft.world.WorldSettings;
 import net.minecraft.world.storage.SaveHandler;
-import net.minecraftforge.cauldron.configuration.CauldronConfig;
 import net.minecraftforge.common.DimensionManager;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.world.WorldEvent;
@@ -140,7 +139,7 @@ import jline.console.ConsoleReader;
 
 public final class CraftServer implements Server {
     private static final Player[] EMPTY_PLAYER_ARRAY = new Player[0];
-    private final String serverName = "KCauldron"; // Cauldron - temporarily keep MCPC-Plus name until plugins adapt
+    private final String serverName = "UKCauldron"; // Cauldron - temporarily keep MCPC-Plus name until plugins adapt
     private final String serverVersion;
     private final String bukkitVersion = Versioning.getBukkitVersion();
     private final Logger logger = Logger.getLogger("Minecraft");
@@ -492,7 +491,7 @@ public final class CraftServer implements Server {
         return null;
     }
 
-    // TODO: In 1.8+ this should use the server's UUID->EntityPlayer map
+    // TODO: In 1.8+ this should use the server's UUID->EntityPlayer map, not that we'll ever update to 1.8...
     @Override
     public Player getPlayer(UUID id) {
         for (Player player : getOnlinePlayers()) {
