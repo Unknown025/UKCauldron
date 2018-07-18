@@ -1,18 +1,19 @@
-**[Join KCauldron's Discord!]~~(https://discord.gg/0nuu0DLm3WJq1Z23)~~**
-# KCauldron
-### UKCauldron - continuation of KCauldron and Cauldron Minecraft server
+# UKCauldron
+
+**Join KCauldron's Discord! ~~(https://discord.gg/0nuu0DLm3WJq1Z23)~~**
+### A continuation of the KCauldron (formerly Cauldron) Minecraft server.
 
 ## Building UKCauldron
 * Ensure you are using Java JDK 8u101 or higher.
 * Checkout project
   * You can use your IDE or clone from Git:
-  `git clone ${url}`
+  `git clone https://github.com/Unknown025/UKCauldron.git`
 * Init submodules
   * Since this project is a merger of two others, we need both.
   `git submodule update --init --recursive`
 * Setup initial workspace
   * This process will download Minecraft and apply patches
-  * If you have Gradle integration in your IDE - you can still use GUI
+  * If you have Gradle integration in your IDE - you can still use the GUI
   `./gradlew setupCauldron` or `gradlew.bat setupCauldron`
 * Build both legacy server jar & default jar
   `./gradlew jar` or `gradlew.bat jar`
@@ -35,4 +36,4 @@ If you have once checked out the source - you do not need to do it again.
   * All versions situated ~~(https://repo.prok.pw/pw/prok/KCauldron/?C=M&O=D)~~
 * If the bug is still present - UKCauldron issue
   * Make sure that a similar issue does not exist already
-  * Please fill ~~(https://gitlab.prok.pw/Prototik/KCauldron/issues/new)~~.
+  * Please fill out a new issue and be specific as you can: https://github.com/Unknown025/UKCauldron/issues/new.
